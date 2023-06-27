@@ -4,9 +4,7 @@ Check out the Tableau link: https://public.tableau.com/views/IPLStatistics2008-2
 
 Introduction:
 
-Statistics of Indian Premier League Matches from 2008 - 2022, 
-  * Trophy Cup Winners,
-  * Purple Cap Holders,
-  * Orange Cap Holders, 
-  * Percentage of team based on toss win,
-  * Team Statistics.
+* Dashboard contains size of 1024px x 768px with 8 tables
+* Techniques of Winning team, Purple & Orange Cap holders, team statistics from 2008 - 2022 ..,
+* Insights of player’s image were inserted in term of winning matches
+
