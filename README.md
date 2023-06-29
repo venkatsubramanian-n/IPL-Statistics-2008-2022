@@ -4,7 +4,8 @@ Check out the Tableau link: https://public.tableau.com/views/IPLStatistics2008-2
 
 Introduction:
 
-* Dashboard contains size of 1024px x 768px with 8 tables
-* Techniques of Winning team, Purple & Orange Cap holders, team statistics from 2008 - 2022 
-* Insights of player’s image were inserted in term of winning matches
+* Worked with Premier Leagues data of 8 columns with winners, location, team statistics etc.
+* Visualized Pie-charts, Geo maps for analyzing stadium venues and percentage of toss won 
+* Discovered that after winning the toss, most teams choose to field to ondrop the opponent teams
+
 
